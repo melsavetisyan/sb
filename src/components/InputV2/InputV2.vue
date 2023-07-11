@@ -58,7 +58,6 @@
 <script setup>
 import IconComponent from "../icon/Icon.vue";
 import InputEye from "./eye/InputEye.vue";
-
 import { defineProps, defineEmits, ref, computed } from "vue";
 
 const emit = defineEmits(["input", "blur", "focus"]);
