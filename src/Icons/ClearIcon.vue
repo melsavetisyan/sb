@@ -1,0 +1,3 @@
+<template>
+    <svg xmlns="http://www.w3.org/2000/svg" width="24.57" height="24.57" viewBox="0 0 24.57 24.57"><path id="plus-circle-fill" d="M17.374,8.687A8.687,8.687,0,1,1,8.687,0a8.687,8.687,0,0,1,8.687,8.687ZM9.23,4.886a.543.543,0,0,0-1.086,0V8.144H4.886a.543.543,0,0,0,0,1.086H8.144v3.258a.543.543,0,0,0,1.086,0V9.23h3.258a.543.543,0,0,0,0-1.086H9.23Z" transform="translate(12.285) rotate(45)" fill="#4b515c" opacity="0.4"></path></svg>
+</template>
